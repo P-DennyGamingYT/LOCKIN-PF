@@ -17,7 +17,13 @@ FORCE STANCE
 
 To use this script, copy the text in the codeblock below and paste it into your exploit. (Usually Takes 5-10 sec. to load)
 
-``` loadstring(game:HttpGet("https://pastebin.com/cyQrN1Yk"))() ```
+``` loadstring(game:HttpGet("https://raw.githubusercontent.com/P-DennyGamingYT/LOCKIN-PF/main/LOCKIN.lua"))() ```
+
+# Related Projects
+
+[ALCATRAZ-PF](https://github.com/P-DennyGamingYT/)
+
+Alcatraz is a silent aim phantom forces script made by me.
 
 # Credits
 
