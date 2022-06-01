@@ -65,7 +65,7 @@ fonts = {
     Enum.Font.Fantasy,
     Enum.Font.Code,
     Enum.Font.Highway,
-    Enum.Font.Bodoni
+    Enum.Font.Bodoni,
 }
  
 textSet = false
