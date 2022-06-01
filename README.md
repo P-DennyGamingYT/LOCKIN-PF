@@ -21,7 +21,7 @@ To use this script, copy the text in the codeblock below and paste it into your 
 
 # Related Projects
 
-[ALCATRAZ-PF](https://github.com/P-DennyGamingYT/ALCATRAZ-UI/)
+[ALCATRAZ-PF](https://github.com/P-DennyGamingYT/ALCATRAZ-PF/)
 
 Alcatraz is a silent aim phantom forces script made by me.
 
