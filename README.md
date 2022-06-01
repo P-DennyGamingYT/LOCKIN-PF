@@ -3,14 +3,14 @@ Lockin' is a Phantom Forces Roblox Script that has aimbot, silent aim, and esp. 
 
 # Features
 
-Silent Aim
-Aimbot
-ESP
-Tracers
-FOV
-PLAYER MODS
-FAKE STANCE
-ANTI-AIM
+Silent Aim,
+Aimbot,
+ESP,
+Tracers,
+FOV,
+PLAYER MODS,
+FAKE STANCE,
+ANTI-AIM,
 FORCE STANCE
 
 # Usage
